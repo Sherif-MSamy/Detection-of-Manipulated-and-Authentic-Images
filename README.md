@@ -1,5 +1,7 @@
 # Detection of Manipulated and Authentic Images
 
+This project introduces a robust neural network for detecting manipulated (fake) and authentic (real) images. Utilizing a custom-built Convolutional Neural Network (CNN) from scratch, the system effectively classifies images without relying on pre-trained models. The methodology encompasses comprehensive data preparation, a meticulously designed CNN architecture with regularization techniques, and rigorous training and evaluation. Achieving a test accuracy of approximately 75.76%, this work demonstrates a foundational approach to image forensics, with detailed insights into model performance through classification reports and confusion matrices.
+
 ## Overview
 This project focuses on developing a neural network capable of distinguishing between real and digitally manipulated images. The goal is to build a robust model from scratch, without utilizing pre-trained architectures, to classify images as either "authentic" or "manipulated" (fake).
 
